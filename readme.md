@@ -12,7 +12,7 @@ This package has been superceded by the new LDRS project:
 **GitHub:** https://github.com/GriffinJohnston/ldrs  
 **NPM:** https://www.npmjs.com/package/ldrs
 
-LDRS exports HTML custom elements instead of React components, which means it will work with any library or framework, including React. Because of this and other breaking changes (one or two loaders are renamed), LDRS is not a drop-in replacement for @uiball/loaders. It's just as easy to use though, and way more flexible.
+LDRS exports HTML custom elements instead of React components, which means it will work with any library or framework, including React. Because of this and other breaking changes (one or two loaders are renamed), LDRS is not a drop-in replacement for @uiball/loaders. It's still easy to use though, and way more flexible.
 
 # Loaders
 
